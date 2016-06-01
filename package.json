@@ -1,7 +1,8 @@
 {
   "name": "native-addon",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "A sample native C++ module that will execute intense code asynchronously on the worker queue",
+  "repository": "https://github.com/jocull/node-native-sample",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
