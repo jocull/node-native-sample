@@ -10,5 +10,8 @@
   },
   "author": "James O'Cull",
   "license": "MIT",
-  "gypfile": true
+  "gypfile": true,
+  "dependencies": {
+    "nan": "^2.3.5"
+  }
 }

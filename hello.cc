@@ -1,3 +1,5 @@
+#include <nan.h>
+
 #include <string>
 #include <node.h>
 #include <cstdlib>
