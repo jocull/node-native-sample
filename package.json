@@ -1,0 +1,14 @@
+{
+  "name": "native-addon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node-gyp rebuild",
+    "start": "node-gyp rebuild && node index.js"
+  },
+  "author": "James O'Cull",
+  "license": "MIT",
+  "gypfile": true
+}
